@@ -1,2 +1,4 @@
-0 string SCHOOL School data 
+0 string SCHOOL School data
 !:mime School
+Finish and compile with 
+file -C -m school.mgc
