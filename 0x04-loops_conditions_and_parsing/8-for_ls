@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Script display content of present directory
+
+for content in *
+do
+    if [ -f $content ]
+    then
+    echo $content
+    fi
+done
